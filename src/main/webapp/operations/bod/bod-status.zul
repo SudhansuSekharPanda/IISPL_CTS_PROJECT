@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+    <window title="Bod Status" border="normal" width="100%">
+        <!-- UI skeleton. Wire the appropriate ZK controller during implementation. -->
+    </window>
+</zk>
